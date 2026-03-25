@@ -10,3 +10,6 @@ namespace ConsoleAppPIS
     {
     }
 }
+public void MojaMetoda()
+{
+}
